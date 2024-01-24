@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/doodle/Documents/GitHub/trumpetsim/build",
+  "command": "/Users/doodle/emsdk/upstream/emscripten/em++   -std=gnu++17 -target wasm32-unknown-emscripten -fignore-exceptions -fvisibility=default -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/Users/doodle/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat\n -o CMakeFiles/hello.dir/src/hello.cpp.o -c /Users/doodle/Documents/GitHub/trumpetsim/src/hello.cpp",
+  "file": "/Users/doodle/Documents/GitHub/trumpetsim/src/hello.cpp",
+  "output": "CMakeFiles/hello.dir/src/hello.cpp.o"
+},
+{
+  "directory": "/Users/doodle/Documents/GitHub/trumpetsim/build",
+  "command": "/Users/doodle/emsdk/upstream/emscripten/em++   -std=gnu++17 -target wasm32-unknown-emscripten -fignore-exceptions -fvisibility=default -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/Users/doodle/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat\n -o CMakeFiles/test.dir/src/test.cpp.o -c /Users/doodle/Documents/GitHub/trumpetsim/src/test.cpp",
+  "file": "/Users/doodle/Documents/GitHub/trumpetsim/src/test.cpp",
+  "output": "CMakeFiles/test.dir/src/test.cpp.o"
+},
+{
+  "directory": "/Users/doodle/Documents/GitHub/trumpetsim/build",
+  "command": "/Users/doodle/emsdk/upstream/emscripten/em++   -std=gnu++17 -target wasm32-unknown-emscripten -fignore-exceptions -fvisibility=default -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/Users/doodle/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat\n -o CMakeFiles/trumpetsim.dir/src/main.cpp.o -c /Users/doodle/Documents/GitHub/trumpetsim/src/main.cpp",
+  "file": "/Users/doodle/Documents/GitHub/trumpetsim/src/main.cpp",
+  "output": "CMakeFiles/trumpetsim.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/doodle/Documents/GitHub/trumpetsim/build",
+  "command": "/Users/doodle/emsdk/upstream/emscripten/em++   -std=gnu++17 -target wasm32-unknown-emscripten -fignore-exceptions -fvisibility=default -mllvm -combiner-global-alias-analysis=false -mllvm -enable-emscripten-sjlj -mllvm -disable-lsr --sysroot=/Users/doodle/emsdk/upstream/emscripten/cache/sysroot -DEMSCRIPTEN -Xclang -iwithsysroot/include/fakesdl -Xclang -iwithsysroot/include/compat\n -o CMakeFiles/trumpetsim.dir/src/draw.cpp.o -c /Users/doodle/Documents/GitHub/trumpetsim/src/draw.cpp",
+  "file": "/Users/doodle/Documents/GitHub/trumpetsim/src/draw.cpp",
+  "output": "CMakeFiles/trumpetsim.dir/src/draw.cpp.o"
+}
+]
